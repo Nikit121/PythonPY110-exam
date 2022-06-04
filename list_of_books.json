@@ -1,0 +1,1596 @@
+[
+    {
+        "model": "shop_final.book",
+        "pk": 3,
+        "fields": {
+            "Title": "Агасфер",
+            "year": 1534,
+            "pages": 204,
+            "isbn130": "978-1-80188-237-8",
+            "rating": 3.7,
+            "price": 486.62,
+            "author": [
+                "Aaron Garcia"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 4,
+        "fields": {
+            "Title": "Капитан Немо",
+            "year": 1876,
+            "pages": 170,
+            "isbn130": "978-0-349-54773-2",
+            "rating": 0.39,
+            "price": 322.34,
+            "author": [
+                "Matthew Ortega",
+                "Dana Barnett"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 5,
+        "fields": {
+            "Title": "Коты-воители",
+            "year": 1532,
+            "pages": 248,
+            "isbn130": "978-0-584-51337-0",
+            "rating": 4.9,
+            "price": 376.93,
+            "author": [
+                "Michael Taylor",
+                "Kayla Smith"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 6,
+        "fields": {
+            "Title": "Коты-воители",
+            "year": 1529,
+            "pages": 134,
+            "isbn130": "978-0-8396-8223-3",
+            "rating": 3.92,
+            "price": 456.71,
+            "author": [
+                "James Waters",
+                "Tina Skinner DDS"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 7,
+        "fields": {
+            "Title": "Агасфер",
+            "year": 1824,
+            "pages": 433,
+            "isbn130": "978-1-67937-702-0",
+            "rating": 3.19,
+            "price": 416.56,
+            "author": [
+                "Sean Green",
+                "William Arnold"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 8,
+        "fields": {
+            "Title": "Вокруг света за 80 дней",
+            "year": 1500,
+            "pages": 628,
+            "isbn130": "978-0-591-11175-0",
+            "rating": 0.24,
+            "price": 711.22,
+            "author": [
+                "Betty Camacho",
+                "Zachary Bond",
+                "Mary Moreno"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 9,
+        "fields": {
+            "Title": "Песнь льда и пламени",
+            "year": 1578,
+            "pages": 969,
+            "isbn130": "978-0-7633-0641-0",
+            "rating": 4.38,
+            "price": 342.49,
+            "author": [
+                "Joanna Stanley"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 10,
+        "fields": {
+            "Title": "Песнь льда и пламени",
+            "year": 1515,
+            "pages": 450,
+            "isbn130": "978-0-227-32562-9",
+            "rating": 1.62,
+            "price": 711.11,
+            "author": [
+                "Robert Thompson",
+                "Jason Cervantes"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 11,
+        "fields": {
+            "Title": "Песнь льда и пламени",
+            "year": 1860,
+            "pages": 162,
+            "isbn130": "978-1-4480-4880-9",
+            "rating": 4.01,
+            "price": 808.19,
+            "author": [
+                "Karen Wilson DVM",
+                "William Robinson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 12,
+        "fields": {
+            "Title": "Капитан Немо",
+            "year": 1864,
+            "pages": 496,
+            "isbn130": "978-0-495-75467-1",
+            "rating": 1.0,
+            "price": 719.52,
+            "author": [
+                "Stephanie Payne",
+                "Angela Greene",
+                "Jason Hines"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 13,
+        "fields": {
+            "Title": "Песнь льда и пламени",
+            "year": 1785,
+            "pages": 824,
+            "isbn130": "978-1-4624-8892-6",
+            "rating": 2.85,
+            "price": 681.08,
+            "author": [
+                "Andrea Baldwin",
+                "Michael Fletcher",
+                "Stephanie Marsh"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 14,
+        "fields": {
+            "Title": "Коты-воители",
+            "year": 1510,
+            "pages": 738,
+            "isbn130": "978-1-4753-3403-6",
+            "rating": 0.69,
+            "price": 630.07,
+            "author": [
+                "Matthew Johnson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 15,
+        "fields": {
+            "Title": "Коты-воители",
+            "year": 2010,
+            "pages": 784,
+            "isbn130": "978-0-629-21347-0",
+            "rating": 0.61,
+            "price": 785.5,
+            "author": [
+                "Mark Smith",
+                "Jeffrey Richmond"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 16,
+        "fields": {
+            "Title": "Капитан Немо",
+            "year": 1805,
+            "pages": 616,
+            "isbn130": "978-0-332-79075-6",
+            "rating": 2.47,
+            "price": 155.56,
+            "author": [
+                "Yvonne Adams DDS",
+                "Brian Cunningham"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 17,
+        "fields": {
+            "Title": "Капитан Немо",
+            "year": 1629,
+            "pages": 835,
+            "isbn130": "978-1-58609-856-8",
+            "rating": 2.23,
+            "price": 410.26,
+            "author": [
+                "Andrea Griffith",
+                "Shelley Cruz",
+                "Brianna Smith"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 18,
+        "fields": {
+            "Title": "Коты-воители",
+            "year": 1787,
+            "pages": 274,
+            "isbn130": "978-0-8252-4338-7",
+            "rating": 0.31,
+            "price": 726.71,
+            "author": [
+                "Christian Castro",
+                "Madison Williams",
+                "Heather Beltran"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 19,
+        "fields": {
+            "Title": "Песнь льда и пламени",
+            "year": 1916,
+            "pages": 473,
+            "isbn130": "978-0-255-81781-3",
+            "rating": 3.98,
+            "price": 531.46,
+            "author": [
+                "Robert Obrien"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 20,
+        "fields": {
+            "Title": "Песнь льда и пламени",
+            "year": 1806,
+            "pages": 945,
+            "isbn130": "978-0-344-62028-7",
+            "rating": 0.84,
+            "price": 514.36,
+            "author": [
+                "Michelle Norman"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 21,
+        "fields": {
+            "Title": "Агасфер",
+            "year": 1689,
+            "pages": 851,
+            "isbn130": "978-0-7046-2376-7",
+            "rating": 4.26,
+            "price": 607.86,
+            "author": [
+                "Megan Wilkins"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 22,
+        "fields": {
+            "Title": "Коты-воители",
+            "year": 1630,
+            "pages": 515,
+            "isbn130": "978-1-279-16514-0",
+            "rating": 0.66,
+            "price": 27.52,
+            "author": [
+                "Michael Haynes"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 23,
+        "fields": {
+            "Title": "Капитан Немо",
+            "year": 1577,
+            "pages": 477,
+            "isbn130": "978-0-8283-5090-7",
+            "rating": 2.1,
+            "price": 364.34,
+            "author": [
+                "Jennifer Hartman",
+                "Jeffery Torres"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 24,
+        "fields": {
+            "Title": "Капитан Немо",
+            "year": 1543,
+            "pages": 274,
+            "isbn130": "978-0-02-091876-9",
+            "rating": 2.08,
+            "price": 450.58,
+            "author": [
+                "Karina Scott"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 25,
+        "fields": {
+            "Title": "Вокруг света за 80 дней",
+            "year": 1536,
+            "pages": 70,
+            "isbn130": "978-0-439-71187-6",
+            "rating": 3.82,
+            "price": 471.0,
+            "author": [
+                "Anthony Munoz"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 26,
+        "fields": {
+            "Title": "Коты-воители",
+            "year": 1859,
+            "pages": 153,
+            "isbn130": "978-1-81437-720-5",
+            "rating": 0.99,
+            "price": 707.65,
+            "author": [
+                "Jordan Thompson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 27,
+        "fields": {
+            "Title": "Агасфер",
+            "year": 1688,
+            "pages": 810,
+            "isbn130": "978-1-212-06946-7",
+            "rating": 0.3,
+            "price": 508.25,
+            "author": [
+                "Alexander Jones"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 28,
+        "fields": {
+            "Title": "Агасфер",
+            "year": 1711,
+            "pages": 351,
+            "isbn130": "978-1-9757-9261-9",
+            "rating": 4.77,
+            "price": 581.61,
+            "author": [
+                "Darren Smith"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 29,
+        "fields": {
+            "Title": "Песнь льда и пламени",
+            "year": 1524,
+            "pages": 877,
+            "isbn130": "978-0-15-125243-5",
+            "rating": 0.47,
+            "price": 909.27,
+            "author": [
+                "Daniel Adams",
+                "Timothy Andrews"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 30,
+        "fields": {
+            "Title": "Вокруг света за 80 дней",
+            "year": 1739,
+            "pages": 42,
+            "isbn130": "978-1-65910-045-7",
+            "rating": 2.23,
+            "price": 694.95,
+            "author": [
+                "Anthony Roberts",
+                "Michael Green"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 31,
+        "fields": {
+            "Title": "Коты-воители",
+            "year": 1637,
+            "pages": 231,
+            "isbn130": "978-1-108-78301-9",
+            "rating": 2.06,
+            "price": 369.04,
+            "author": [
+                "Allison Davis"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 32,
+        "fields": {
+            "Title": "Капитан Немо",
+            "year": 1756,
+            "pages": 20,
+            "isbn130": "978-1-77103-794-5",
+            "rating": 1.38,
+            "price": 565.5,
+            "author": [
+                "Lisa Palmer",
+                "Tracy Thompson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 33,
+        "fields": {
+            "Title": "Коты-воители",
+            "year": 1843,
+            "pages": 911,
+            "isbn130": "978-0-214-52218-5",
+            "rating": 1.72,
+            "price": 564.58,
+            "author": [
+                "April Foster"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 34,
+        "fields": {
+            "Title": "Вокруг света за 80 дней",
+            "year": 1937,
+            "pages": 82,
+            "isbn130": "978-0-529-71477-0",
+            "rating": 2.55,
+            "price": 539.6,
+            "author": [
+                "Jeremy Huang"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 35,
+        "fields": {
+            "Title": "Вокруг света за 80 дней",
+            "year": 1758,
+            "pages": 723,
+            "isbn130": "978-0-7240-0801-8",
+            "rating": 0.89,
+            "price": 227.71,
+            "author": [
+                "Holly Wheeler",
+                "Thomas Dalton",
+                "Thomas Perez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 36,
+        "fields": {
+            "Title": "Агасфер",
+            "year": 1911,
+            "pages": 830,
+            "isbn130": "978-1-947142-05-3",
+            "rating": 1.75,
+            "price": 437.76,
+            "author": [
+                "Eric Kim",
+                "Donna Parker",
+                "Vincent Kramer"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 37,
+        "fields": {
+            "Title": "Коты-воители",
+            "year": 1911,
+            "pages": 308,
+            "isbn130": "978-0-87358-071-7",
+            "rating": 0.93,
+            "price": 463.91,
+            "author": [
+                "Catherine Hudson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 38,
+        "fields": {
+            "Title": "Песнь льда и пламени",
+            "year": 1645,
+            "pages": 922,
+            "isbn130": "978-1-84442-273-9",
+            "rating": 0.87,
+            "price": 791.94,
+            "author": [
+                "Jake Archer"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 39,
+        "fields": {
+            "Title": "Капитан Немо",
+            "year": 1671,
+            "pages": 380,
+            "isbn130": "978-1-63235-171-5",
+            "rating": 1.27,
+            "price": 564.69,
+            "author": [
+                "Nancy Campbell",
+                "Wanda Morris"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 40,
+        "fields": {
+            "Title": "Капитан Немо",
+            "year": 1690,
+            "pages": 906,
+            "isbn130": "978-0-664-41678-2",
+            "rating": 0.17,
+            "price": 206.64,
+            "author": [
+                "Jennifer Brooks",
+                "Stacy Rosales",
+                "Eric Flores"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 41,
+        "fields": {
+            "Title": "Коты-воители",
+            "year": 1807,
+            "pages": 944,
+            "isbn130": "978-1-370-76552-2",
+            "rating": 1.24,
+            "price": 440.55,
+            "author": [
+                "Frank Gill",
+                "Mr. Mark Smith"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 42,
+        "fields": {
+            "Title": "Агасфер",
+            "year": 1940,
+            "pages": 218,
+            "isbn130": "978-0-592-20600-4",
+            "rating": 2.0,
+            "price": 626.25,
+            "author": [
+                "Andrea Briggs",
+                "Mr. Mark Jackson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 43,
+        "fields": {
+            "Title": "Вокруг света за 80 дней",
+            "year": 1686,
+            "pages": 609,
+            "isbn130": "978-0-631-23849-2",
+            "rating": 4.8,
+            "price": 403.06,
+            "author": [
+                "Ashlee Wright",
+                "Charles Wagner"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 44,
+        "fields": {
+            "Title": "Коты-воители",
+            "year": 1973,
+            "pages": 304,
+            "isbn130": "978-0-16-782212-7",
+            "rating": 1.11,
+            "price": 466.74,
+            "author": [
+                "Danielle Dawson",
+                "Nicole Reese",
+                "Diane Smith"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 45,
+        "fields": {
+            "Title": "Песнь льда и пламени",
+            "year": 1658,
+            "pages": 344,
+            "isbn130": "978-1-05-991328-2",
+            "rating": 4.01,
+            "price": 539.54,
+            "author": [
+                "Phyllis Barton",
+                "Rhonda Mendoza"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 46,
+        "fields": {
+            "Title": "Агасфер",
+            "year": 2008,
+            "pages": 655,
+            "isbn130": "978-1-907260-96-4",
+            "rating": 2.36,
+            "price": 425.21,
+            "author": [
+                "Mrs. Sheila Harris"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 47,
+        "fields": {
+            "Title": "Песнь льда и пламени",
+            "year": 1869,
+            "pages": 517,
+            "isbn130": "978-1-4676-2431-2",
+            "rating": 2.32,
+            "price": 480.67,
+            "author": [
+                "Nicole Elliott"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 48,
+        "fields": {
+            "Title": "Коты-воители",
+            "year": 1565,
+            "pages": 711,
+            "isbn130": "978-1-74228-965-6",
+            "rating": 2.0,
+            "price": 634.32,
+            "author": [
+                "Joel Liu"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 49,
+        "fields": {
+            "Title": "Вокруг света за 80 дней",
+            "year": 1884,
+            "pages": 618,
+            "isbn130": "978-1-64460-995-8",
+            "rating": 4.71,
+            "price": 897.1,
+            "author": [
+                "Don Richards",
+                "Michael Pittman",
+                "Diane Maldonado"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 50,
+        "fields": {
+            "Title": "Капитан Немо",
+            "year": 1570,
+            "pages": 983,
+            "isbn130": "978-1-378-65099-8",
+            "rating": 1.87,
+            "price": 481.57,
+            "author": [
+                "Elizabeth Lowe"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 51,
+        "fields": {
+            "Title": "Песнь льда и пламени",
+            "year": 1988,
+            "pages": 21,
+            "isbn130": "978-1-5246-9941-3",
+            "rating": 0.33,
+            "price": 289.42,
+            "author": [
+                "Emma Bryan",
+                "Rachel Atkins MD",
+                "Aaron Rodriguez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 52,
+        "fields": {
+            "Title": "Песнь льда и пламени",
+            "year": 1975,
+            "pages": 118,
+            "isbn130": "978-0-18-704373-1",
+            "rating": 1.38,
+            "price": 316.84,
+            "author": [
+                "Michael Lin"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 53,
+        "fields": {
+            "Title": "Коты-воители",
+            "year": 1890,
+            "pages": 859,
+            "isbn130": "978-0-678-09963-6",
+            "rating": 3.81,
+            "price": 227.97,
+            "author": [
+                "Patrick Barnes",
+                "Kim Wheeler"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 54,
+        "fields": {
+            "Title": "Агасфер",
+            "year": 1735,
+            "pages": 807,
+            "isbn130": "978-0-7277-6916-9",
+            "rating": 4.05,
+            "price": 708.78,
+            "author": [
+                "Stephanie Brown",
+                "Tamara Lopez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 55,
+        "fields": {
+            "Title": "Агасфер",
+            "year": 1920,
+            "pages": 612,
+            "isbn130": "978-0-16-522032-1",
+            "rating": 1.53,
+            "price": 595.77,
+            "author": [
+                "Tyler Jackson",
+                "Brittany Phillips"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 56,
+        "fields": {
+            "Title": "Капитан Немо",
+            "year": 1876,
+            "pages": 326,
+            "isbn130": "978-1-02-022910-7",
+            "rating": 1.63,
+            "price": 690.38,
+            "author": [
+                "Julia Taylor",
+                "Anthony Frost"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 57,
+        "fields": {
+            "Title": "Вокруг света за 80 дней",
+            "year": 1669,
+            "pages": 753,
+            "isbn130": "978-1-883598-24-2",
+            "rating": 2.76,
+            "price": 570.19,
+            "author": [
+                "Teresa Torres"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 58,
+        "fields": {
+            "Title": "Коты-воители",
+            "year": 1838,
+            "pages": 95,
+            "isbn130": "978-1-878611-86-4",
+            "rating": 4.31,
+            "price": 655.61,
+            "author": [
+                "Aaron Romero",
+                "Grant Cochran"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 59,
+        "fields": {
+            "Title": "Капитан Немо",
+            "year": 1668,
+            "pages": 907,
+            "isbn130": "978-1-251-37437-9",
+            "rating": 2.29,
+            "price": 371.5,
+            "author": [
+                "Lisa Becker",
+                "Thomas Arnold",
+                "Rose Davis"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 60,
+        "fields": {
+            "Title": "Коты-воители",
+            "year": 1869,
+            "pages": 101,
+            "isbn130": "978-1-259-65043-7",
+            "rating": 2.82,
+            "price": 156.65,
+            "author": [
+                "Tommy Mcgee",
+                "Joshua Lynch"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 61,
+        "fields": {
+            "Title": "Агасфер",
+            "year": 1988,
+            "pages": 909,
+            "isbn130": "978-1-79604-493-5",
+            "rating": 4.12,
+            "price": 281.33,
+            "author": [
+                "Sergio Bennett",
+                "Jennifer Robles"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 62,
+        "fields": {
+            "Title": "Вокруг света за 80 дней",
+            "year": 1510,
+            "pages": 653,
+            "isbn130": "978-1-73063-466-6",
+            "rating": 1.41,
+            "price": 139.73,
+            "author": [
+                "Ryan Stuart",
+                "Christine Jones"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 63,
+        "fields": {
+            "Title": "Песнь льда и пламени",
+            "year": 1761,
+            "pages": 773,
+            "isbn130": "978-0-605-13605-2",
+            "rating": 3.89,
+            "price": 620.85,
+            "author": [
+                "Angel Suarez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 64,
+        "fields": {
+            "Title": "Капитан Немо",
+            "year": 1680,
+            "pages": 126,
+            "isbn130": "978-0-304-01571-9",
+            "rating": 4.55,
+            "price": 757.95,
+            "author": [
+                "Travis Owens",
+                "Matthew Gill"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 65,
+        "fields": {
+            "Title": "Капитан Немо",
+            "year": 1977,
+            "pages": 508,
+            "isbn130": "978-0-253-92603-6",
+            "rating": 4.14,
+            "price": 525.0,
+            "author": [
+                "Ashley Soto",
+                "David Adams"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 66,
+        "fields": {
+            "Title": "Вокруг света за 80 дней",
+            "year": 1909,
+            "pages": 328,
+            "isbn130": "978-0-7090-0751-7",
+            "rating": 1.62,
+            "price": 279.97,
+            "author": [
+                "Diane Garcia",
+                "Paul Chase",
+                "Keith Wilson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 67,
+        "fields": {
+            "Title": "Капитан Немо",
+            "year": 1701,
+            "pages": 853,
+            "isbn130": "978-0-642-30194-9",
+            "rating": 1.38,
+            "price": 869.79,
+            "author": [
+                "Barry Wall",
+                "Keith Johnson",
+                "Kenneth Sutton"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 68,
+        "fields": {
+            "Title": "Песнь льда и пламени",
+            "year": 1698,
+            "pages": 429,
+            "isbn130": "978-1-82851-343-9",
+            "rating": 0.85,
+            "price": 708.49,
+            "author": [
+                "Nicholas Bray"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 69,
+        "fields": {
+            "Title": "Капитан Немо",
+            "year": 1964,
+            "pages": 895,
+            "isbn130": "978-1-4916-7853-4",
+            "rating": 1.89,
+            "price": 476.29,
+            "author": [
+                "Jordan Bishop",
+                "Larry Sparks",
+                "Nicole Foster"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 70,
+        "fields": {
+            "Title": "Вокруг света за 80 дней",
+            "year": 1848,
+            "pages": 182,
+            "isbn130": "978-1-326-27530-3",
+            "rating": 3.45,
+            "price": 485.99,
+            "author": [
+                "Jessica Marsh"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 71,
+        "fields": {
+            "Title": "Капитан Немо",
+            "year": 1674,
+            "pages": 216,
+            "isbn130": "978-0-7124-2817-0",
+            "rating": 3.32,
+            "price": 663.14,
+            "author": [
+                "Joseph Alexander",
+                "Laurie Williams",
+                "Christopher Clark"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 72,
+        "fields": {
+            "Title": "Коты-воители",
+            "year": 1808,
+            "pages": 852,
+            "isbn130": "978-1-939055-51-4",
+            "rating": 3.56,
+            "price": 457.47,
+            "author": [
+                "Dennis Martinez",
+                "Mark Brown",
+                "Brandy Woods"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 73,
+        "fields": {
+            "Title": "Вокруг света за 80 дней",
+            "year": 1830,
+            "pages": 534,
+            "isbn130": "978-1-883311-06-3",
+            "rating": 4.33,
+            "price": 698.89,
+            "author": [
+                "William Ayala",
+                "Laura Moore"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 74,
+        "fields": {
+            "Title": "Агасфер",
+            "year": 1643,
+            "pages": 741,
+            "isbn130": "978-0-7539-6017-2",
+            "rating": 4.49,
+            "price": 750.49,
+            "author": [
+                "Amy Nichols",
+                "Charles Butler"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 75,
+        "fields": {
+            "Title": "Песнь льда и пламени",
+            "year": 1913,
+            "pages": 885,
+            "isbn130": "978-0-87816-781-4",
+            "rating": 3.88,
+            "price": 568.78,
+            "author": [
+                "Fred Morse"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 76,
+        "fields": {
+            "Title": "Песнь льда и пламени",
+            "year": 1785,
+            "pages": 286,
+            "isbn130": "978-1-02-140694-1",
+            "rating": 1.51,
+            "price": 335.84,
+            "author": [
+                "Gary Matthews",
+                "Megan Sweeney MD",
+                "Nicholas Dixon"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 77,
+        "fields": {
+            "Title": "Капитан Немо",
+            "year": 1869,
+            "pages": 913,
+            "isbn130": "978-0-7992-2296-8",
+            "rating": 1.95,
+            "price": 620.46,
+            "author": [
+                "Lindsay Fields",
+                "Robert Carson",
+                "Charles Flores"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 78,
+        "fields": {
+            "Title": "Вокруг света за 80 дней",
+            "year": 1905,
+            "pages": 674,
+            "isbn130": "978-0-389-70562-8",
+            "rating": 4.71,
+            "price": 587.04,
+            "author": [
+                "Matthew Jones"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 79,
+        "fields": {
+            "Title": "Коты-воители",
+            "year": 1596,
+            "pages": 127,
+            "isbn130": "978-1-77232-823-3",
+            "rating": 1.24,
+            "price": 400.81,
+            "author": [
+                "Thomas Proctor"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 80,
+        "fields": {
+            "Title": "Песнь льда и пламени",
+            "year": 1735,
+            "pages": 879,
+            "isbn130": "978-0-927764-83-4",
+            "rating": 1.92,
+            "price": 696.35,
+            "author": [
+                "Jeffery Shepherd"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 81,
+        "fields": {
+            "Title": "Агасфер",
+            "year": 1987,
+            "pages": 699,
+            "isbn130": "978-0-7590-1576-0",
+            "rating": 4.53,
+            "price": 419.72,
+            "author": [
+                "Judy Melendez",
+                "Kelsey Hall"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 82,
+        "fields": {
+            "Title": "Агасфер",
+            "year": 2016,
+            "pages": 480,
+            "isbn130": "978-1-332-98255-4",
+            "rating": 1.73,
+            "price": 513.09,
+            "author": [
+                "Matthew Howe",
+                "James Rhodes",
+                "Leslie Farley"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 83,
+        "fields": {
+            "Title": "Агасфер",
+            "year": 1775,
+            "pages": 936,
+            "isbn130": "978-0-7386-5603-8",
+            "rating": 0.56,
+            "price": 783.99,
+            "author": [
+                "Patricia Williams",
+                "Amy Porter",
+                "Jackson Nelson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 84,
+        "fields": {
+            "Title": "Агасфер",
+            "year": 1702,
+            "pages": 494,
+            "isbn130": "978-0-239-73027-5",
+            "rating": 1.44,
+            "price": 626.61,
+            "author": [
+                "Corey Townsend",
+                "Emily Smith"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 85,
+        "fields": {
+            "Title": "Капитан Немо",
+            "year": 2017,
+            "pages": 104,
+            "isbn130": "978-1-207-22564-9",
+            "rating": 0.98,
+            "price": 805.43,
+            "author": [
+                "Melissa Brown",
+                "Tonya Lewis"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 86,
+        "fields": {
+            "Title": "Коты-воители",
+            "year": 1606,
+            "pages": 839,
+            "isbn130": "978-0-375-43273-6",
+            "rating": 2.39,
+            "price": 456.77,
+            "author": [
+                "Shaun Singh",
+                "Tammy Gonzalez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 87,
+        "fields": {
+            "Title": "Агасфер",
+            "year": 1708,
+            "pages": 708,
+            "isbn130": "978-1-64054-423-9",
+            "rating": 3.34,
+            "price": 779.35,
+            "author": [
+                "Ryan Chung",
+                "Anna Carter",
+                "Heather Aguilar"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 88,
+        "fields": {
+            "Title": "Вокруг света за 80 дней",
+            "year": 1520,
+            "pages": 320,
+            "isbn130": "978-0-493-39423-7",
+            "rating": 0.63,
+            "price": 416.85,
+            "author": [
+                "Jessica Scott"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 89,
+        "fields": {
+            "Title": "Песнь льда и пламени",
+            "year": 1846,
+            "pages": 897,
+            "isbn130": "978-1-192-17928-6",
+            "rating": 4.03,
+            "price": 288.11,
+            "author": [
+                "Bethany Rodriguez",
+                "Robert Rodriguez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 90,
+        "fields": {
+            "Title": "Песнь льда и пламени",
+            "year": 1536,
+            "pages": 248,
+            "isbn130": "978-0-435-86290-9",
+            "rating": 1.21,
+            "price": 642.29,
+            "author": [
+                "David Miles",
+                "Marissa Stanton DVM"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 91,
+        "fields": {
+            "Title": "Агасфер",
+            "year": 1744,
+            "pages": 846,
+            "isbn130": "978-0-200-07614-2",
+            "rating": 0.4,
+            "price": 512.64,
+            "author": [
+                "John Mendoza"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 92,
+        "fields": {
+            "Title": "Агасфер",
+            "year": 1924,
+            "pages": 254,
+            "isbn130": "978-0-641-21276-5",
+            "rating": 3.8,
+            "price": 597.53,
+            "author": [
+                "Melanie Lopez",
+                "Susan Solis"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 93,
+        "fields": {
+            "Title": "Песнь льда и пламени",
+            "year": 1781,
+            "pages": 129,
+            "isbn130": "978-1-900024-90-7",
+            "rating": 2.66,
+            "price": 514.06,
+            "author": [
+                "Andrea Young",
+                "Jennifer Simpson",
+                "Dillon Day"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 94,
+        "fields": {
+            "Title": "Коты-воители",
+            "year": 1828,
+            "pages": 356,
+            "isbn130": "978-1-06-484953-8",
+            "rating": 1.95,
+            "price": 350.52,
+            "author": [
+                "William Hernandez",
+                "Nicole Williams",
+                "Alexander Jones"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 95,
+        "fields": {
+            "Title": "Коты-воители",
+            "year": 2008,
+            "pages": 436,
+            "isbn130": "978-0-474-54578-8",
+            "rating": 3.89,
+            "price": 460.41,
+            "author": [
+                "Walter Ford",
+                "Kathy Dunn",
+                "Vanessa Smith"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 96,
+        "fields": {
+            "Title": "Песнь льда и пламени",
+            "year": 1787,
+            "pages": 195,
+            "isbn130": "978-1-4321-8320-2",
+            "rating": 2.33,
+            "price": 726.82,
+            "author": [
+                "Jamie Ochoa",
+                "Ryan Elliott"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 97,
+        "fields": {
+            "Title": "Вокруг света за 80 дней",
+            "year": 1768,
+            "pages": 902,
+            "isbn130": "978-1-08-238056-3",
+            "rating": 2.53,
+            "price": 82.01,
+            "author": [
+                "Susan Prince"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 98,
+        "fields": {
+            "Title": "Вокруг света за 80 дней",
+            "year": 1960,
+            "pages": 266,
+            "isbn130": "978-1-55513-072-5",
+            "rating": 0.81,
+            "price": 155.64,
+            "author": [
+                "Philip Jackson",
+                "Bruce Valdez",
+                "Jonathan Sanchez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 99,
+        "fields": {
+            "Title": "Капитан Немо",
+            "year": 1702,
+            "pages": 334,
+            "isbn130": "978-1-233-64151-2",
+            "rating": 0.71,
+            "price": 690.24,
+            "author": [
+                "Dawn Sandoval",
+                "Christopher Cruz"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 100,
+        "fields": {
+            "Title": "Агасфер",
+            "year": 1628,
+            "pages": 944,
+            "isbn130": "978-1-55396-644-9",
+            "rating": 3.99,
+            "price": 198.49,
+            "author": [
+                "Ernest Schroeder",
+                "David Brown",
+                "Brian Fox"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 101,
+        "fields": {
+            "Title": "Песнь льда и пламени",
+            "year": 1689,
+            "pages": 517,
+            "isbn130": "978-1-84282-136-7",
+            "rating": 4.42,
+            "price": 907.27,
+            "author": [
+                "Christina Jones",
+                "Erin Donovan",
+                "Joseph Yates"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 102,
+        "fields": {
+            "Title": "Песнь льда и пламени",
+            "year": 1618,
+            "pages": 27,
+            "isbn130": "978-0-602-82975-9",
+            "rating": 3.25,
+            "price": 358.2,
+            "author": [
+                "Blake Patel"
+            ]
+        }
+    }
+]
